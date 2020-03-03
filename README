@@ -1,0 +1,6 @@
+# Use this repository for THESIS related R code. Scripts from your project-related data should be
+# added to this repository and then you can fork the repository in Rstudio to ensure you are working on the most
+# current version of your code and you shouldn't have to re-define the workspace when editing on different devices
+# (so long as you have an internet connection)
+
+## WILL UPDATE WITH SET-UP INSTRUCTIONS ##
